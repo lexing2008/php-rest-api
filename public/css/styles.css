@@ -1,0 +1,11 @@
+div.wr{	position: relative; margin: auto auto; max-width:1200px; padding:0 15px; background-color:#FFFFFF }
+#mleft{ width: 200px; float: left; }
+#mright{ width: 900px; float: right; }
+                
+.category.level_0{}
+.category.level_1{ padding-left: 20px; }
+.category.level_2{ padding-left: 40px; }
+.category.level_3{ padding-left: 60px; }
+.category.level_4{ padding-left: 80px; }
+
+.pointer{ cursor: pointer; }
